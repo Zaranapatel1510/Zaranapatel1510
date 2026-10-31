@@ -1,4 +1,4 @@
-<img width="538" height="740" alt="image" src="https://github.com/user-attachments/assets/b6b6130b-8dfa-456c-9892-d891616f58a6" /><h1 align="center">Hi 👋, I'm Zarana Patel</h1>
+<h1 align="center">Hi 👋, I'm Zarana Patel</h1>
 <p align="center">B.Tech IT Student • Full-Stack Developer • Surat, Gujarat</p>
 
 ## 💫 About Me:
