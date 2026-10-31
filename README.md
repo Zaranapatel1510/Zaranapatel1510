@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zarana Patel</h1>
+<img width="538" height="740" alt="image" src="https://github.com/user-attachments/assets/b6b6130b-8dfa-456c-9892-d891616f58a6" /><h1 align="center">Hi 👋, I'm Zarana Patel</h1>
 <p align="center">B.Tech IT Student • Full-Stack Developer • Surat, Gujarat</p>
 
 ## 💫 About Me:
@@ -21,7 +21,7 @@ Smart India Hackathon 2025 award recipient.
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaranapatel1510@gmail.com)
+[![Gmail](https://github.com/Zaranapatel1510)
 [![Trailhead](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](YOUR_TRAILBLAZER_URL)
 
 ## 💻 Tech Stack:
